@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I am a developer focused on Cyber Security and Web dev.
+I am a Cyber Security Proffesional with a passion for Web Dev.
 
 This profile holds my personal projects that I am working on.
 
